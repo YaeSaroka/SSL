@@ -1,5 +1,7 @@
 TP N°R  - HOLA MUNDO!
 
 ##COMPILADOR: GCC (MSYS2)
+
 ##VERSION DEL COMPILADOR: gcc.exe (Rev1, Built by MSYS2 project) 15.1.0
+
 ##VERSION DE C SOPORTADA: estandar C23 (C2x)
